@@ -13,7 +13,7 @@
 
 | Dataset | MLLM | G | R | I | Paper |
 | :--- | :--- | :---: | :---: | :---: | :---:|
-| LLaVA_instruct_150K | LLaVA | ✔ | ✔ | ✗ | [Visual Instruction Tuning](./assert/papers/Visual Instruction Tuning.pdf) |
+| LLaVA_instruct_150K | LLaVA | ✔ | ✔ | ✗ | [Visual Instruction Tuning](assert/papers/Visual Instruction Tuning.pdf) |
 
 ## 📂 Multi-Modal Instruction Data Constructed in This Paper
 
@@ -45,7 +45,7 @@ There are three different types of instruction data. The data statistics and dow
 ### Data Format
 
 ```json
-data = {
+{
     "image_source": "",
     "construction_time": "",
     "annotations": [
@@ -53,8 +53,8 @@ data = {
         "img_ids": "",
         "instruction_type": "",
         "conversations": []
-      }
-      ... ...
+      },
+      
       {
         "img_ids": "",
         "instruction_type": "",
