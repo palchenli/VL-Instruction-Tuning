@@ -13,7 +13,7 @@
 
 | Dataset | MLLM | G | R | I | Paper |
 | :--- | :--- | :---: | :---: | :---: | :---:|
-| LLaVA_instruct_150K | LLaVA | ✔ | ✔ | ✗ | [Visual Instruction Tuning](assert/papers/Visual Instruction Tuning.pdf) |
+| LLaVA_instruct_150K | LLaVA | ✔︎ | ✔︎ | ✗ | [Visual Instruction Tuning](https://github.com/palchenli/VL-Instruction-Tuning/blob/main/assert/papers/Visual%20Instruction%20Tuning.pdf) |
 
 ## 📂 Multi-Modal Instruction Data Constructed in This Paper
 
