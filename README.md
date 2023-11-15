@@ -14,7 +14,7 @@
 | Dataset | MLLM | G | R | I | Paper |
 | :--- | :--- | :---: | :---: | :---: | :---:|
 | LLaVA_instruct_150K | LLaVA | ✔︎ | ✔︎ | ✗ | [Visual Instruction Tuning](https://github.com/palchenli/VL-Instruction-Tuning/blob/main/assert/papers/Visual%20Instruction%20Tuning.pdf) |
-| cc_sbu_align | Mini-GPT4 | ✔︎ | ✔︎ | ✗ | []() |
+| cc_sbu_align | Mini-GPT4 | ✔︎ | ✔︎ | ✗ | [Minigpt-4- Enhancing vision-language understanding with advanced large language models]() |
 
 ## 📂 Multi-Modal Instruction Data Constructed in This Paper
 
