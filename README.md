@@ -6,7 +6,7 @@ This paper is a review of all the works related to vision-language instruction t
 
 ## 📆 Schedule
 
-- ⬜️ Release New Instruction Data (periodically) ...
+- ⬜️ Release New Vision-Language Instruction Data (periodically) ...
 - ⬜️ Update Public VLIT Datasets and Related Work (periodically) ... 
 - ⬜️ Release Construction Tools
 - ☑️ [2023.11.16] Release Instruction Data
@@ -16,14 +16,38 @@ This paper is a review of all the works related to vision-language instruction t
 ## 🏷️ Catalogue
 
 1. <a href="#label_evd">Existing VLIT Data</a>
+2. <a href="#label_vdctp">VLIT Data Constructed in This Paper</a>
 
 
-<span id="label_evd_1">  </span>
+<span id="label_evd">  </span>
 
 ## 🗒️ Existing VLIT Dataset
 
+Currently, the existing VLIT generation schemes can be divided into two categories, among which Annotation Adaption mainly relies on directly adjusting and rewriting the existing annotation data to adapt to the VLIT data template. Self-Instruct relies on the Large Language Model (LLM) to synthesize annotation data from more sources and reorganize it to generate VLIT data with more diversity and complexity (of course, it also brings more noise and hallucination).
+
+```
+VLIT Data
+├─ General Instruction
+│   ├─ Annotation Adaption
+│   └─ Self-Instruct
+├─ Specific Instruction
+│   ├─ Object/Task-Specific
+│   │   ├─ Region
+│   │   ├─ Video
+│   │   └─ Text
+│   └─ Domain-Specific
+│       ├─ Medicine
+│       ├─ Document
+│       └─ PointCloud
+├─ Construction Tools
+└─ Data Mixing
+```
+
+### Dataset
+
 | Dataset | MLLM | Paper |
 | :--- | :--- | :---|
+| ... | ... | ... |
 | LVIS-INSTRUCT4V | - | [To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning](https://github.com/palchenli/VL-Instruction-Tuning/blob/main/assert/paper/To%20See%20is%20to%20Believe-%20Prompting%20GPT-4V%20for%20Better%20Visual%20Instruction%20Tuning.pdf) |
 | GranD | GLaMM | [GLaMM: Pixel Grounding Large Multimodal Model](https://github.com/palchenli/VL-Instruction-Tuning/blob/main/assert/paper/GLaMM%20-%20Pixel%20Grounding%20Large%20Multimodal%20Model.pdf) |
 | ComVint | - | [What Makes for Good Visual Instructions? Synthesizing Complex Visual Reasoning Instructions for Visual Instruction Tuning](https://github.com/palchenli/VL-Instruction-Tuning/blob/main/assert/paper/What%20Makes%20for%20Good%20Visual%20Instructions%3F%20Synthesizing%20Complex%20Visual%20Reasoning%20Instructions%20for%20Visual%20Instruction%20Tuning.pdf) |
@@ -80,7 +104,7 @@ This paper is a review of all the works related to vision-language instruction t
 
 
 
-<span id="label_evd">  </span>
+<span id="label_vdctp">  </span>
 
 ## 📂 Multi-Modal Instruction Data Constructed in This Paper
 
