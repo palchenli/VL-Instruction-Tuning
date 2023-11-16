@@ -2,11 +2,14 @@
 
 ---
 
+This paper is a review of all the works related to vision-language instruction tuning (VLIT). We will periodically update the recent public  VLIT dataset and the VLIT data constructed by the pipeline in this paper.
+
 ## 📆 Schedule
 
-- ⬜️ Release New Instruction Data ... (circulation)
+- ⬜️ Release New Instruction Data (periodically) ...
+- ⬜️ Update Public VLIT Datasets and Related Work (periodically) ... 
 - ⬜️ Release Construction Tools
-- ⬜️ Release Instruction Data
+- ☑️ [2023.11.16] Release Instruction Data
 - ☑️ [2023.11.15] Paper Released ([ArXiv](https://arxiv.org/abs/2311.08172))
 
 ## 🗒️ Existing VLIT Dataset
