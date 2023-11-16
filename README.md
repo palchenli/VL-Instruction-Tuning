@@ -10,9 +10,9 @@
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
 </p>
 
-<a href='https://https://huggingface.co/datasets/lllchenlll/COCO_ARC'><img src='https://img.shields.io/badge/Data-Huggingface-yellow'></a> 
-<a href='https://arxiv.org/abs/2311.08172'><img src='https://img.shields.io/badge/Paper-ArXiv-orange'></a> 
-<a href='https://creativecommons.org/licenses/by/4.0/'><img src='https://img.shields.io/badge/License-ArXiv-purple'></a>
+<a href='https://https://huggingface.co/datasets/lllchenlll/COCO_ARC'><img src='https://img.shields.io/badge/Data-Huggingface-ebc634'></a> 
+<a href='https://creativecommons.org/licenses/by/4.0/'><img src='https://img.shields.io/badge/License-CC4.0-eb9334'></a>
+<a href='https://arxiv.org/abs/2311.08172'><img src='https://img.shields.io/badge/Paper-ArXiv-eb4c34'></a> 
 
 This paper is a review of all the works related to vision-language instruction tuning (VLIT). We will periodically update the recent public  VLIT dataset and the VLIT data constructed by the pipeline in this paper.
 
