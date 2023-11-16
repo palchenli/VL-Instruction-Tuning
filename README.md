@@ -10,7 +10,7 @@
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
 </p>
 
-<a href='https://https://huggingface.co/datasets/lllchenlll/COCO_ARC'><img src='https://img.shields.io/badge/Data-Huggingface-ebc634'></a> 
+<a href='https://huggingface.co/datasets/lllchenlll/COCO_ARC'><img src='https://img.shields.io/badge/Data-Huggingface-ebc634'></a> 
 <a href='https://creativecommons.org/licenses/by/4.0/'><img src='https://img.shields.io/badge/License-CC%20BY--SA%204.0-eb9334'></a>
 <a href='https://arxiv.org/abs/2311.08172'><img src='https://img.shields.io/badge/Paper-ArXiv-eb4c34'></a> 
 
@@ -138,13 +138,13 @@ There are three different types of instruction data. The data statistics and dow
 
 ### Download Links
 
-| Data Type | Baidu CLoud | Google Drive |
-| :--- | :---: | :---: |
-| COCO_2014_Images | [url](https://cocodataset.org/) | [url](https://cocodataset.org/) |
-| Global | [url](https://pan.baidu.com/s/15Ge_lwge-YOxL55_0roOfA?pwd=inok) | [url](https://drive.usercontent.google.com/download?id=1rEzH0RhWqjq8W6zXc-t8Q3Tg3ncB1dpN&export=download&authuser=0&confirm=t&uuid=f574c321-ad4c-438e-94a6-8790db70c58f&at=APZUnTVglRBUCUC6tax-d3OH33Io:1700050876759) |
-| Negative | [url](https://pan.baidu.com/s/1wuCkm443ufpG3-xcHVrRNA?pwd=auc7) | [url](https://drive.usercontent.google.com/download?id=1sQurFP7M_Ftd2Q5NSZm41_PCMT4ECd0g&export=download&authuser=0&confirm=t&uuid=fb82922c-0fd0-4b47-a5f1-af70f4d1b300&at=APZUnTUOOoYjM2gAhK79wsUkKUFk:1700051467871) |
-| Region | [url](https://pan.baidu.com/s/15m1RMpeirEz83Jsxd8zC0w?pwd=96p5) | [url](https://drive.usercontent.google.com/download?id=1Qbk4cOfTcrsPx7k1rD0E20hTkdhYNfBU&export=download&authuser=0&confirm=t&uuid=6fa256d3-e085-4089-9073-11799a7b3b74&at=APZUnTXdeLntbNQeEWgpD7SvulsM:1700051759650) |
-| Region_Images | [url]() | [url]() |
+| Data Type | Baidu CLoud | Google Drive | Huggingface |
+| :--- | :---: | :---: | :---: |
+| COCO_2014_Images | [url](https://cocodataset.org/) | [url](https://cocodataset.org/) | [url](https://cocodataset.org/) |
+| Global | [url](https://pan.baidu.com/s/15Ge_lwge-YOxL55_0roOfA?pwd=inok) | [url](https://drive.usercontent.google.com/download?id=1rEzH0RhWqjq8W6zXc-t8Q3Tg3ncB1dpN&export=download&authuser=0&confirm=t&uuid=f574c321-ad4c-438e-94a6-8790db70c58f&at=APZUnTVglRBUCUC6tax-d3OH33Io:1700050876759) | [url](https://huggingface.co/datasets/lllchenlll/COCO_ARC/resolve/main/global.json?download=true) |
+| Negative | [url](https://pan.baidu.com/s/1wuCkm443ufpG3-xcHVrRNA?pwd=auc7) | [url](https://drive.usercontent.google.com/download?id=1sQurFP7M_Ftd2Q5NSZm41_PCMT4ECd0g&export=download&authuser=0&confirm=t&uuid=fb82922c-0fd0-4b47-a5f1-af70f4d1b300&at=APZUnTUOOoYjM2gAhK79wsUkKUFk:1700051467871) | [url](https://huggingface.co/datasets/lllchenlll/COCO_ARC/resolve/main/negative.json?download=true) |
+| Region | [url](https://pan.baidu.com/s/15m1RMpeirEz83Jsxd8zC0w?pwd=96p5) | [url](https://drive.usercontent.google.com/download?id=1Qbk4cOfTcrsPx7k1rD0E20hTkdhYNfBU&export=download&authuser=0&confirm=t&uuid=6fa256d3-e085-4089-9073-11799a7b3b74&at=APZUnTXdeLntbNQeEWgpD7SvulsM:1700051759650) | [url](https://huggingface.co/datasets/lllchenlll/COCO_ARC/resolve/main/region.json?download=true) |
+| Region_Images | [url](https://pan.baidu.com/s/1NpggqYSLTjcTSlohLcXKLA?pwd=mhgo) | [url](https://drive.usercontent.google.com/download?id=1FMsU3sZLXDtumrNJK6CXgOd_YMIWXKaf&export=download&authuser=0&confirm=t&uuid=4eecfe1f-9807-478b-b501-54330c3713f4&at=APZUnTUCjk0W087kFmx5TECtBHRc:1700139356648) | [url](https://huggingface.co/datasets/lllchenlll/COCO_ARC/resolve/main/region_images.zip?download=true) |
 
 
 ### Data Format
